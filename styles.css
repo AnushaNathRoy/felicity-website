@@ -1,0 +1,78 @@
+body{
+    background-color: #151515;
+}
+
+/* Awesome_Pixel_Art_and_Motion_Design_for_Futur-removebg-preview 1 */
+#pic{
+    position: absolute;
+    width: 738px;
+    height: 374px;
+    left: 40%;
+    top: 24%;
+
+    background: url(pic.png);
+
+}
+
+/* felicity 2022 */
+
+#typography{
+    position: absolute;
+    width: 822px;
+    height: 205px;
+    left: 15%;
+    top: 1.8%;
+
+    font-family: Pixeboy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 154px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #4289C9;
+
+}
+
+/*buttons*/
+#button1 , #button2 {
+    display:inline-block;
+    background-color: #4289C9;
+    padding: 2%;
+    margin: 2%;
+    font-family: Pixeboy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2em;
+    color: white;
+    border: none;
+    align-items: center;
+    letter-spacing: 0.06em;
+    }
+
+.wrapper{
+    margin-left: 26%;
+    margin-top: 4%;
+}
+
+.wrapper2{
+    margin-left: 12%;
+    margin-top: 30%;
+}
+
+#button3{
+    display:inline-block;
+    background-color: transparent;
+    padding: 2%;
+    margin: 2%;
+    font-family: Pixeboy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2em;
+    color: white;
+    border: none;
+    align-items: center;
+    letter-spacing: 0.06em;
+}
